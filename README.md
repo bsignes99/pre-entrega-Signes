@@ -17,3 +17,4 @@ Listado de Celulares: Muestra todos los modelos de celulares disponibles con su 
 Filtrado por Marca: Los usuarios pueden filtrar los productos por marca.
 Detalles del Producto: Los usuarios pueden hacer clic en un celular para ver más detalles sobre ese modelo, incluyendo especificaciones técnicas, características y opciones de compra.
 
+/* no pude hacer funcionar el carrito, para la reentrega lo complemento junto al loading y demas dificultades que me surgieron*/
